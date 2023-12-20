@@ -1,8 +1,10 @@
 ## Hi there 👋
 ### 🐟 摸鱼统计
-[![GitHub Streak](https://streak-stats.demolab.com?user=HduSy&theme=radical)](https://git.io/streak-stats)   
+[![GitHub Streak](https://streak-stats.demolab.com?user=HduSy&theme=radical&card_width=500)](https://git.io/streak-stats)   
 ### 🙈 摸鱼水平
-[![HduSy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HduSy&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![HduSy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HduSy&theme=ambient_gradient&show_icons=true&card_width=500&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)   
+### 🧤 摸鱼工具
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HduSy&layout=compact&card_width=500&hide_title=true&hide=)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HduSy/HduSy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
