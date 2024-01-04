@@ -10,7 +10,31 @@
 ### 🙈 摸鱼水平
 [![HduSy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HduSy&theme=ambient_gradient&show_icons=true&card_width=500&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)   
 ### 🧤 摸鱼工具
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HduSy&layout=compact&card_width=500&hide_title=true&hide=)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HduSy&layout=compact&card_width=500&hide_title=true&hide=)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+</p>
 <!--
 **HduSy/HduSy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
