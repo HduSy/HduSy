@@ -28,7 +28,7 @@
   </a>
 </p>
 -->
-[![摸鱼工具](https://skillicons.dev/icons?i=js,ts,html,css,sass,git,github,md,nodejs,nestjs,powershell,vue,react,redux,rollupjs,vite,vscode,webpack)](https://skillicons.dev)   
+[![摸鱼工具](https://skillicons.dev/icons?i=vscode,idea,html,css,sass,js,ts,vue,react,redux,webpack,rollupjs,vite,nodejs,nestjs,git,github,md)](https://skillicons.dev)   
 ### 🐟 摸鱼统计
 [![GitHub Streak](https://streak-stats.demolab.com?user=HduSy&theme=radical&card_width=500)](https://git.io/streak-stats)   
 ### 🙈 摸鱼水平
