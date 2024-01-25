@@ -28,8 +28,8 @@
   </a>
 </p>
 -->
-[![摸鱼工具](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,redux,nodejs,nestjs)](https://skillicons.dev)   
-[![摸鱼工具](https://skillicons.dev/icons?i=webpack,rollupjs,vite,git,github,vscode,idea,md)](https://skillicons.dev)   
+[![摸鱼工具](https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,vue,react,redux,nodejs,nestjs,express)](https://skillicons.dev)   
+[![摸鱼工具](https://skillicons.dev/icons?i=webpack,rollupjs,vite,babel,git,bash,github,vscode,idea,md)](https://skillicons.dev)   
 ### 🐟 摸鱼统计
 [![GitHub Streak](https://streak-stats.demolab.com?user=HduSy&theme=radical&card_width=500)](https://git.io/streak-stats)   
 ### 🙈 摸鱼水平
